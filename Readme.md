@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ольга Тарануха](https://up.htmlacademy.ru/adaptive/16/user/209887).
-* Наставник: `Неизвестно`.
+* Наставник: `Отсутствует`.
 
 ---
 
